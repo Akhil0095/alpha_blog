@@ -22,8 +22,12 @@ $navbar-default-bg: #07a8e8;
 	text-align: center;
 }
 
-.jumbotron h1{
-	color: #4195bf;
+.jumbotron {
+	background-image: asset-url('download.png');
+	background-size: cover;
+	height: 450px;
+	color: #fff;
+	font-family: Brush Script MT, Cursive;
 	text-align: center;
 	margin-bottom: 10px;
 	letter-spacing: -1px;
